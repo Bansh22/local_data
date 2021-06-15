@@ -15,6 +15,7 @@
   <%
     // request.setAttribute("goodsList", gdao.getGoodsList());
     List goodsList = (List) request.getAttribute("goodsList");
+    System.out.println("행복하세요");
   %>
   
   
